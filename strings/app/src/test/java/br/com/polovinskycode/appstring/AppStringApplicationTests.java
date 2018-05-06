@@ -1,3 +1,4 @@
+/*
 package br.com.polovinskycode.appstring;
 
 import org.junit.Test;
@@ -14,3 +15,4 @@ public class AppStringApplicationTests {
 	}
 
 }
+*/
